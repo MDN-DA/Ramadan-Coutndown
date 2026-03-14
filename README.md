@@ -1,6 +1,6 @@
-# 🌙 Ramadan 2026 Countdown Widget
+# 🌙 Ramadan 2027 Countdown Widget
 
-A beautiful, responsive countdown timer for Ramadan 2026.
+A beautiful, responsive countdown timer for Ramadan 2027.
 
 **Live Demo:** [View Widget](https://mdn-da.github.io/Ramadan-2026/)
 ### Features:
